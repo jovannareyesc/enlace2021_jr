@@ -7,4 +7,4 @@ The [ENLACE](http://resilientmaterials.ucsd.edu/ENLACE) US-Mexico summer researc
 
 To run the Jupyter Notebooks in your web browser, click on the launch link below. It may take a couple of minutes to launch Jupyter Lab.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pwrose/enlace2021_pr/HEAD?filepath=notebooks&urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jovannareyesc/enlace2021_jr/HEAD?filepath=notebooks&urlpath=lab)
